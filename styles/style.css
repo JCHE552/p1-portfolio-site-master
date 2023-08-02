@@ -92,6 +92,12 @@ a.button-grey {
 	background: #3498db;
 }
 
+.about{
+	background: #3498db;
+	font-size: 12px;
+	font-color: #FFFFFF;
+}
+
 .wrap-skill {
 	display: block;
 }
